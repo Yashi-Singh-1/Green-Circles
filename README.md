@@ -26,7 +26,7 @@
 <ol>
     <li><strong>Fork the Repository</strong>: Click on the "Fork" button at the top right corner of the repository page to create a copy in your GitHub account.</li>
     <li><strong>Clone the Repository</strong>: Clone your forked repository to your local machine using 
-        <code>git clone https://github.com/Yashi-Singh-1/Green-Circles</code>
+        <code>git clone https://github.com/Yashi-Singh-1/Green-Circles.git</code>
     </li>
     <li><strong>Create a New Branch</strong>: Create a new branch for your feature or bug fix using <code>git checkout -b &lt;branch-name&gt;</code>.</li>
     <li><strong>Make Changes</strong>: Make your changes or additions to the code.</li>
